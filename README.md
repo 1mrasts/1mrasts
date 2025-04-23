@@ -44,5 +44,6 @@
 ###
 
 <div align=center>
+<p>And also.. I don't use github often, so most of the time it will be empty or replenished very rarely, I will try to fix it.</p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </div>
