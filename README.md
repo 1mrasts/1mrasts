@@ -14,8 +14,10 @@
 <div align=center>
 <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=f16524&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HTML5" >
 <img src="https://img.shields.io/static/v1?message=CSS&logo=css&label=&color=369cd6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CSS" >
+<img src="https://img.shields.io/static/v1?message=SASS&logo=sass&label=&color=bc5c94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="redux" >
 <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=080808&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript" >
 <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61dafb&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react" >
+<img src="https://img.shields.io/static/v1?message=Redux&logo=redux&label=&color=744cbc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="redux" >
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=ffdf5a&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="python" >
 </div>
 <br>
