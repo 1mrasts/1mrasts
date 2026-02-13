@@ -24,14 +24,6 @@
 
 ###
 
-<h3>🛠️ My stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1mrasts&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-###
-
 <h3>📖 Completed courses:</h4>
 <ul type=disc>
   <li>📔 Most of the courses are on stepik</li>
