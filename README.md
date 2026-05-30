@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61dafb&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react" >
 <img src="https://img.shields.io/static/v1?message=Redux&logo=redux&label=&color=744cbc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="redux" >
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=ffdf5a&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="python" >
-<img src="https://img.shields.io/static/v1?message=SCSS&logo=scss&label=&color=cf649a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scss" >
+<img src="https://img.shields.io/static/v1?message=Next.js&logo=nextjs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Next.js" >
 </div>
 <br>
 
